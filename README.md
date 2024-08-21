@@ -16,12 +16,15 @@ Data Manipulation
 
 Filtering data based on specific criteria (e.g., species, location).
 Aggregating data to compute statistics like mean, median, and mode.
+
 Data Visualization
 
 Bar plots to show the distribution of tree species.
 Pie charts to represent the proportions of different species.
 Scatter plots to display the relationship between tree height and diameter.
 Geospatial plots to visualize the distribution of trees across different locations.
+'I am working on this area'
+
 Statistical Analysis
 
 Diversity indices (e.g., Shannon index) to quantify biodiversity.
